@@ -11,14 +11,14 @@ This is a public project to create HD textures for the original Animal Crossing 
 ###To Install: 
 
 1. Download the latest version of the texture pack
-2. Locate your Dolphin Settings folder, typically in *C:\Users\Username\My Documents\Dolphin Emulator*
-3. Navigate into the *Dolphin Emulator\Load\Textures* folder
-4. In this folder create a folder called *GAFE01*
+2. Locate your Dolphin Settings folder, typically in **C:\Users\Username\My Documents\Dolphin Emulator**
+3. Navigate into the **Dolphin Emulator\Load\Textures** folder
+4. In this folder create a folder called **GAFE01**
 5. Place all of the textures into this folder
-6. Open *Dolphin*
-7. Open the *Graphics Configuration* window
-8. Go to the *Advanced* tab
-9. Check off the box for *Load Custom Textures*
+6. Open **Dolphin**
+7. Open the **Graphics Configuration** window
+8. Go to the **Advanced** tab
+9. Check off the box for **Load Custom Textures**
 10. Start the game and you should be ready to go
 
 ## How You Can Help
@@ -27,12 +27,12 @@ This is a public project to create HD textures for the original Animal Crossing 
 
 The first step is to rip all textures from the game. 
 
-1. Go into you *Graphics Configuration*
-2. Go to the *Advanced* tab
-3. Check off *Dump Textures*
+1. Go into you **Graphics Configuration**
+2. Go to the **Advanced** tab
+3. Check off **Dump Textures**
 4. Load the game
 
-All textures that get loaded into memory will now be dumped into *Dolphin Emulator\Dump\Textures\GAFE01*
+All textures that get loaded into memory will now be dumped into **Dolphin Emulator\Dump\Textures\GAFE01**
 
 ### Identifying/Organizing Textures
 
@@ -49,13 +49,10 @@ You can use any program to create HD versions of textures, but there are a few r
 
 To keep track of this project we are using GitHub. You should understand some of the basic lingo:
 
-*Repository* - a project (eg Animal Crossing HD)
-
-*Branch* - a copy of the project that you can make changes to
-
-*Commit* - an update to a branch
-
-*Pull Request* - a submission of your branch to be added to the main project
+- **Repository** - a project (eg Animal Crossing HD)
+- **Branch** - a copy of the project that you can make changes to
+- **Commit** - an update to a branch
+- **Pull Request** - a submission of your branch to be added to the main project
 
 ## Current Status
 
