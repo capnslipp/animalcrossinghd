@@ -48,9 +48,13 @@ You can use any program to create HD versions of textures, but there are a few r
 ### Submitting Changes
 
 To keep track of this project we are using GitHub. You should understand some of the basic lingo:
+
 *Repository* - a project (eg Animal Crossing HD)
+
 *Branch* - a copy of the project that you can make changes to
+
 *Commit* - an update to a branch
+
 *Pull Request* - a submission of your branch to be added to the main project
 
 ## Current Status
