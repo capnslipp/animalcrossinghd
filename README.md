@@ -11,7 +11,7 @@ This is a public project to create HD textures for the original Animal Crossing 
 ###To Install: 
 
 1. Download the latest version of the texture pack
-2. Locate your Dolphin Settings folder, typically in **C:\Users\Username\My Documents\Dolphin Emulator**
+2. Locate your Dolphin Settings folder, typically in **C:\Users\Username\My Documents\Dolphin Emulator** (Windows) **/Users/Username/Library/Application Support/Dolphin** (macOS)
 3. Navigate into the **Dolphin Emulator\Load\Textures** folder
 4. In this folder create a folder called **GAFE01**
 5. Place all of the textures into this folder
